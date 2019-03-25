@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.movieinfo-container {
+  width: 400px;
+  display: inline-block;
+  vertical-align: top;
+}
